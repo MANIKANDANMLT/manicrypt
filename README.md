@@ -1,7 +1,7 @@
 # WELCOME TO MANICRYPT
 * manicrypt is a simple and fun cryptography package
 ```
-  pip intall manicrypt
+  pip install manicrypt
 ```
 ## how to import?
 ```python
